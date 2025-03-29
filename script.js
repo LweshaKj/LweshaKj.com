@@ -1,6 +1,6 @@
 // GitHub Repository Info
-const user = 'your-username'; // Replace with your GitHub username
-const repo = 'your-repo-name'; // Replace with your repository name
+const user = 'LweshaKj'; // Replace with your GitHub username
+const repo = 'LweshaKj.com'; // Replace with your repository name
 const branch = 'main'; // Branch where images are stored (usually 'main' or 'master')
 
 // The folder in your GitHub repo where the images are stored
